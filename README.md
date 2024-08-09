@@ -1,5 +1,5 @@
 
-#  Build an AI wallpaper generator using Rapid and OpenAI
+#  Build an AI wallpaper generator using Rapid and OpenAI (Learning project)
 
 An AI-powered application that generates custom wallpapers using OpenAI's API and Rapid's integration services
 
