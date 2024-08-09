@@ -1,1 +1,1 @@
-# Building-an-AI-wallpaper-generator
+# Build an AI wallpaper generator using Rapid and OpenAI
