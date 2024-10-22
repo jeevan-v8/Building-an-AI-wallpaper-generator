@@ -106,7 +106,7 @@ const Home: NextPage<IProps> = ({ data }) => {
               onClick={suggestWallpaper}
               ref={suggestButtonRef}
             >
-              Suggest wallpaper
+              Imagine wallpaper
             </button>
             <button
               className="w-full py-2 md:text-sm bg-[#081477] rounded-md text-white"
