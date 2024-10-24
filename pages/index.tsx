@@ -113,7 +113,7 @@ const Home: NextPage<IProps> = ({ data }) => {
               onClick={generateWallpaper}
               ref={buttonRef}
             >
-              Generate wallpaper
+              Create wallpaper
             </button>
           </div>
         </div>
